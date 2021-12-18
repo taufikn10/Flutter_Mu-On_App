@@ -1,5 +1,12 @@
 # Flutter-Mu-On_App
 
+Disusun Oleh :
+<pre>
+1. Taufik Nurrahman  (019) <br>
+2. Hafidh Ahmad F.   (027) <br>
+3. Fachreza N.       (036)
+</pre>
+
 ### App View
 
 1. Splash Screen
